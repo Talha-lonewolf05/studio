@@ -1,0 +1,15 @@
+Place your additional assets here:
+
+Optional assets:
+- Custom fonts (if not using Google Fonts)
+- Icons (if using custom SVG icons)
+- Logo files
+- Favicon.ico
+- Additional CSS or JS libraries
+
+The website currently uses:
+- Google Fonts (Inter) - loaded from CDN
+- Emoji icons - no additional files needed
+- External images from Unsplash - no local images required
+
+This folder is optional for the basic deployment.
